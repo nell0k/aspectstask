@@ -107,6 +107,26 @@
 			<artifactId>aspectjrt</artifactId>
 			<version>1.9.20</version>
 		</dependency>
+        <dependency>
+            <groupId>ch.pete.appconfig</groupId>
+            <artifactId>appconfig</artifactId>
+            <version>0.1.0</version>
+        </dependency>
+		<dependency>
+			<groupId>com.cognitect.aws</groupId>
+			<artifactId>appconfig</artifactId>
+			<version>847.2.1365.0</version>
+		</dependency>
+		<dependency>
+			<groupId>com.cognitect.aws</groupId>
+			<artifactId>appconfig</artifactId>
+			<version>847.2.1365.0</version>
+		</dependency>
+		<dependency>
+			<groupId>com.cognitect.aws</groupId>
+			<artifactId>appconfig</artifactId>
+			<version>847.2.1365.0</version>
+		</dependency>
 	</dependencies>
 
 	<build>
